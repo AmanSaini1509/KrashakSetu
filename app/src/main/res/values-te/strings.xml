@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_screen_greeting">స్వాగతం దయచేసి లాగిన్ చేయండి</string>
+    <string name="login_screen_aadhaar">ఆధార్ సంఖ్య</string>
+    <string name="login">లాగిన్</string>
+    <string name="password">పాస్వర్డ్</string>
+</resources>

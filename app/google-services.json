@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730432132265",
+    "project_id": "krashak-setu-testing",
+    "storage_bucket": "krashak-setu-testing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730432132265:android:7da0b5be567966c71705b8",
+        "android_client_info": {
+          "package_name": "com.example.krashaksetu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtVGYZL6eEch74lnuFLxXHr6Nyy44cGUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

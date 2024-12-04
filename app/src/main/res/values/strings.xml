@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">KrashakSetu</string>
+    <string name="login_screen_greeting">Welcome Please Log-in</string>
+    <string name="login_screen_aadhaar">Aadhaar Number</string>
+    <string name="login">Log-in</string>
+    <string name="password">Password</string>
+</resources>

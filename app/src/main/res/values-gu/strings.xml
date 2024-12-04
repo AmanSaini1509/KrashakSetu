@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_screen_greeting">સ્વાગત છે કૃપા કરીને લૉગ ઇન કરો</string>
+    <string name="login_screen_aadhaar">કઆધાર નંબર</string>
+    <string name="login">લોગ-ઇન</string>
+    <string name="password">పాస్వర్డ్</string>
+</resources>
